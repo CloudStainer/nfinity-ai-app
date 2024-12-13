@@ -2007,7 +2007,7 @@ function Il(r) {
           o(u, "draggable", "false"),
           o(s, "class", "relative h-14 w-14 transition-all duration-300"),
           o(l, "class", "z-[2]"),
-          o(g, "href", "https://nfinityai.xyz"),
+          o(g, "href", "https://nfinity-ai.vercel.app/"),
           o(t, "class", "flex items-center"),
           o(k, "class", "z-50 flex items-center gap-6"),
           o(
@@ -3304,7 +3304,7 @@ function Fl(r) {
         this.h();
     },
     h() {
-      o(l, "href", "https://nfinityai.xyz"),
+      o(l, "href", "https://nfinity-ai.vercel.app/"),
         o(l, "class", "ml-5 w-[46%] max-w-[200px]"),
         Q(d.src, ($ = jt)) || o(d, "src", $),
         o(d, "alt", "Menu Icon"),

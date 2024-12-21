@@ -1,0 +1,11 @@
+.scrollbar-hide.svelte-qncz3x { scrollbar-width: none; }
+.scrollbar-hide.svelte-qncz3x::-webkit-scrollbar { display: none; }
+.text.svelte-qncz3x { font-size: 0.875rem; line-height: 1.5rem; }
+.info.svelte-qncz3x { position: relative; z-index: 1; border-radius: 32px; background: linear-gradient(158.39deg, rgba(255, 255, 255, 0.4) 14.19%, rgba(255, 255, 255, 0) 50.59%, rgba(255, 255, 255, 0) 68.79%, rgba(255, 255, 255, 0.1) 105.18%); backdrop-filter: blur(100px); box-shadow: rgba(248, 248, 248, 0.06) 2px 4px 16px inset; }
+.info.svelte-qncz3x::before { content: ""; position: absolute; inset: 1.5px; z-index: -1; border-radius: 32px; background: linear-gradient(165.6deg, rgba(0, 0, 0, 0.5) 10.21%, rgba(0, 50, 83, 0.5) 97.68%), rgb(1, 29, 48); }
+.list.svelte-qncz3x { list-style-type: disc; padding-left: 1.5rem; }
+.discount.svelte-qncz3x { background: radial-gradient(100% 75.37% at 0% 125.02%, rgb(7, 35, 53), rgb(0, 0, 0) 41.72%, rgb(5, 51, 81)); }
+.nfinityGradient.svelte-qncz3x { position: relative; margin: 1px; border-radius: 0.625rem; background: linear-gradient(158.39deg, rgba(255, 255, 255, 0.4) 14.19%, rgba(255, 255, 255, 0) 50.59%, rgba(255, 255, 255, 0) 68.79%, rgba(255, 255, 255, 0.1) 105.18%); }
+.nfinityGradient.svelte-qncz3x::after { content: ""; position: absolute; inset: 1px; border-radius: 0.625rem; background: linear-gradient(162.03deg, rgb(0, 111, 185) 12.25%, rgba(0, 8, 13, 0.5) 84.98%), rgb(1, 29, 48); }
+.cardGradient.svelte-qncz3x { position: relative; margin: 1px; border-radius: 0.625rem; background: linear-gradient(158.39deg, rgba(255, 255, 255, 0.4) 14.19%, rgba(255, 255, 255, 0) 50.59%, rgba(255, 255, 255, 0) 68.79%, rgba(255, 255, 255, 0.1) 105.18%); }
+.cardGradient.svelte-qncz3x::after { content: ""; position: absolute; inset: 1px; border-radius: 0.625rem; background: linear-gradient(165.6deg, rgba(0, 0, 0, 0.5) 10.21%, rgba(0, 50, 83, 0.5) 97.68%), rgb(1, 29, 48); }

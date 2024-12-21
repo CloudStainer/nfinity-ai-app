@@ -1,0 +1,13 @@
+.scroll-container.svelte-cw8bno { scrollbar-width: none; }
+.scroll-container.svelte-cw8bno::-webkit-scrollbar { display: none; }
+.borderContainer.svelte-cw8bno::after { content: ""; position: absolute; inset: -2px; border-radius: 0.625rem; background: transparent; z-index: -1; transition: background 0.3s; }
+.borderContainer.svelte-cw8bno:hover::after { background: linear-gradient(107.57deg, rgb(42, 161, 240) 23.93%, rgb(75, 169, 232), rgb(47, 127, 180), rgb(5, 51, 81) 79.87%) 0% 0% / 400% 400%; animation: 3s linear 0s infinite normal none running svelte-cw8bno-gradientFlow; }
+@keyframes svelte-cw8bno-gradientFlow { 
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+.buttonGradient.svelte-1o35o9d { background: linear-gradient(107.57deg, rgb(42, 161, 240) 23.93%, rgb(75, 169, 232), rgb(47, 127, 180), rgb(5, 51, 81) 79.87%); box-shadow: rgba(0, 0, 0, 0.25) 0px 4px 4px; }
+.scrollbar-hide.svelte-192uef1 { scrollbar-width: none; }
+.scrollbar-hide.svelte-192uef1::-webkit-scrollbar { display: none; }
+.newModels.svelte-1sldx73 { box-shadow: rgba(0, 0, 0, 0.12) -1px 4px 82px 10px inset; background: linear-gradient(165.6deg, rgba(0, 0, 0, 0.5) 10.21%, rgba(46, 55, 61, 0.5) 97.68%); }
